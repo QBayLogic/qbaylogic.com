@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: stars.jpg
+  feature: circuit.jpg
 ---
 
 <div class="tiles">
