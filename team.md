@@ -9,8 +9,8 @@ image:
 
 ##### Jan Kuper - Founder & Partner
 
-Jan Kuper has a PhD in the field of mathematics and is a member of the
-scientific staff at the [CAES](http://caes.ewi.utwente.nl/) group of the
+Jan Kuper has a PhD in the field of mathematics and is a senior member of the
+scientific staff of the [CAES](http://caes.ewi.utwente.nl/) group of the
 University of Twente.
 
 ##### Christiaan Baaij - Founder & Partner
