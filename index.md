@@ -23,3 +23,13 @@ image:
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
+
+<div style="text-align: center;">
+<h3 class="post-title">Contact us:</h2>
+
+<br>
+<a href="mailto:{{ site.owner.email }}" class="btn-social email"><i class="fa fa-envelope" aria-hidden="true"></i> email</a>
+<a href="https://facebook.com/{{ site.owner.facebook }}" class="btn-social facebook"><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</a>
+<a href="https://twitter.com/{{ site.owner.twitter }}" class="btn-social twitter"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+<a href="https://linkedin.com/company/{{ site.owner.linkedin }}" class="btn-social linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+</div>
